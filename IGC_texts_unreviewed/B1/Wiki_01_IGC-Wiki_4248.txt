@@ -1,0 +1,3 @@
+RMH/IGC-Wiki-22.10.ana/01/IGC-Wiki_4248.ana.xml
+
+ Vefsíða er skjal er situr á Veraldarvefnum,  venjulega skrifuð í ívafsmálinu HTML.  Vefsíða inniheldur venjulega tengla á aðrar vefsíður og er þannig hluti af neti vefsíðna eða vef.  Sá hugbúnaður sem notaður er til að skoða vefsíður nefnist vafri. 

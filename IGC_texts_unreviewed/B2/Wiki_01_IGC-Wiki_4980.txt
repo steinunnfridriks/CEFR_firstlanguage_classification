@@ -1,0 +1,3 @@
+RMH/IGC-Wiki-22.10.ana/01/IGC-Wiki_4980.ana.xml
+
+ Regluleg segð er segð sem lýsir streng eða mengi strengja með ákveðnum forsniðsreglum.  Þær eru notaðar í hinum ýmsu forritunarmálum og textaritlum til að finna og breyta texta með kerfisbundnum hætti.  Grunntegundir.  Regluleg segð er oftast notað til að lýsa mengi strengja án þess að telja upp alla möguleika.  Sem dæmi er hægt að lýsa strengjunum"  Eyður"  og"  Eiður"  með segðinni"  E(  i|  y)  ður" . 

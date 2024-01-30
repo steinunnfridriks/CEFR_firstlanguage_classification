@@ -1,0 +1,3 @@
+RMH/IGC-Wiki-22.10.ana/18/IGC-Wiki_35165.ana.xml
+
+ Geislameðferð er meðferð í geislalækningum með orkumikilli jónandi geislun á kjörmeðferðarsvæði í því skyni að eyða krabbameinsæxlum eða meinvörpum.  Línhraðall,  sem er ein tegund eindahraðals,  er notaðaður til að gefa ytri geislameðferð.  Við innri geislameðferð eru notaðar geislavirkar samsætur. (  Áður fyrr voru geislavirku samsæturnar radín-  226 og kóbalt - 60 oftast notaðar til geislameðferðar. )  Yfirleitt er gefinn geislaskammturinn 2 Gy á kjörmeðferðarsvæði hvern virkan dag upp að 40 til 60 Gy heildargeislaskammti.  Geislameðferð er gefin af geislafræðingum á Geislaeðlisfræðideild Landspítala. 

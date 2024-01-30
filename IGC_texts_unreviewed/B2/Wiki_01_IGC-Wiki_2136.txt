@@ -1,0 +1,3 @@
+RMH/IGC-Wiki-22.10.ana/01/IGC-Wiki_2136.ana.xml
+
+ Daniel Bernoulli(  8. febrúar 1700 í Groningen – 17. mars 1782 í Basel)  var svissneskur eðlis–  og stærðfræðingur.  Hann var sonur Johanns Bernoulli,  sem var mikill stærðfræðingur eins og flestir bræður hans.  Daniel er þekktastur fyrir útreikninga sína á sviði vökvaaflfræði.  Við hann er kennd svokölluð Bernoulli-jafna,  sem fjallar um samband hraða og þrýstings í vökvastreymi. 
