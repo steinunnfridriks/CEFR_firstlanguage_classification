@@ -1,4 +1,4 @@
-##**Automatically classifying native texts in Icelandic based on their CEFR-levels**
+## **Automatically classifying native texts in Icelandic based on their CEFR-levels**
 
 **[IGC_texts_unreviewed](https://github.com/steinunnfridriks/CEFR_firstlanguage_classification/tree/main/IGC_texts_unreviewed)** is a collection of txt files collected from the Icelandic Gigaword Corpus. They have been sorted into separate directories based on their proposed CEFR-level (but the categorization has not been reviewed by an expert in Icelandic as a second language). The levels are imbalanced in terms of the number of texts. No texts were found on the A1 level. The A2 level contains 8 texts, the B1 level contains 23 texts, the B2 level contains 76 texts, the C1 level contains 166 texts and the C2 level contains 82 texts. 
 
